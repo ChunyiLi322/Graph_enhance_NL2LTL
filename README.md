@@ -71,7 +71,6 @@ Configure the following variables at the top of batch_run.py:
 Run:
 
 ```bash
-复制代码
 python batch_run.py
 ```
 
