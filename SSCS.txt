@@ -1,0 +1,41 @@
+As soon as docking mode is engaged and alignment with the docking station is confirmed, the docking control system should secure the spacecraft in its docked position.
+During orbital insertion mode, the guidance computer will immediately check if the desired orbit has been achieved and then shut down the main engines.
+If a spacewalk is approved and the airlock is confirmed sealed, the external activity control system should proceed to support the spacewalk in progress, ensuring all safety protocols are followed.
+If an engine malfunction is detected during the launch sequence, the launch control system must abort the launch to prevent any catastrophic failure.
+If autopilot is engaged and severe turbulence is detected, the autopilot system must promptly disengage autopilot.
+If environmental control is active and a cabin pressure drop is detected, the environmental control system must activate the emergency oxygen system immediately.
+If fuel monitoring is active and a fuel leak is detected, the fuel management system must initiate fuel isolation procedures instantly.
+If the airlock is sealed and the pressure difference exceeds 5 psi, the airlock control system should equalize the pressure.
+If the command to switch to manual control is given, the flight control system must engage manual control immediately.
+If the engine control system is operational and detects an engine overheat, it should activate the cooling system.
+If the ship is in cooling mode and the cabin temperature exceeds 22 degrees Celsius, the spacecraft thermal control system should switch to increase coolant flow mode.
+If the surveillance system is in surveillance mode and detects an unidentified object, it should initiate a tracking sequence.
+In cruise mode, the communication array will immediately check if the signal quality degrades significantly, and then realign the antenna towards the nearest relay satellite.
+In data gathering mode, the science instruments will immediately check if the target celestial body is within sensor range, and then activate all relevant sensors and begin data collection.
+In docking mode, the attitude control system will immediately check if the alignment is off by more than 5 degrees and then adjust the orientation to match the docking station.
+In emergency abort mode, the flight control system will immediately check if a critical system failure is detected and then initiate the escape sequence and notify ground control.
+In landing sequence mode, the descent thrusters will immediately check if the altitude is below 100 meters and then increase thrust to slow down the descent.
+In maintenance mode, the robotic repair tools will immediately check if an anomaly in spacecraft hull integrity is detected, and then deploy repair bots to the affected area.
+In power management mode, the energy distribution system will immediately check if solar panel efficiency drops below 75% and then reroute power from non-essential systems.
+In the event of an emergency shutdown command, the reactor control must complete the reactor shutdown process within 10 seconds.
+In thermal regulation mode, the cooling systems will immediately check if internal temperatures exceed operational thresholds, and then increase coolant flow and adjust external radiator panels.
+Once the descent is initiated and the landing zone is verified clear, the landing system should activate the full landing sequence to safely bring the spacecraft to the surface.
+Once the orbit correction signal starts, the navigation system must begin correcting the orbit within 30 seconds.
+Should signal loss occur while data transmission is active, the communication system needs to initiate signal recovery procedures to restore communication as quickly as possible.
+Should the abort launch command be signaled, the launch system must confirm the launch abort without delay.
+Should the flight mode be active and an engine failure is detected, the flight control system needs to immediately transition to emergency landing mode.
+The altitude hold system is required to maintain a minimum altitude of 1000 feet at all times.
+The autopilot system is required to maintain altitude between 1000 and 40000 feet.
+The cabin oxygen level must always be maintained at or above 21%.
+The communication system must maintain signal strength at 70% or higher.
+The engine temperature monitor must ensure that the engine temperature does not exceed 250 degrees Celsius.
+Upon initiating fuel transfer with all valves confirmed open, the fuel management system should proceed to transfer fuel, monitoring the flow to ensure no discrepancies.
+Upon receiving the command to activate the solar panels, the power management system must deploy the solar panels within one minute.
+Upon reception of the payload release command, the payload management system must deploy the payload without delay.
+When a distress signal is received, the communication system must transmit a distress response within 2 minutes.
+When emergency mode is activated and cabin pressure remains stable, the life support system must maintain safety mode to ensure the wellbeing of all onboard.
+When navigation is active and a waypoint is reached, the navigation system must update to the next waypoint without delay.
+When orbital decay is detected after achieving orbit, the orbital adjustment system must correct the orbit to ensure the spacecraft remains on its intended trajectory.
+When the autopilot is engaged and turbulence is detected, the flight control system must adjust the autopilot settings to maintain stability and safety.
+When the command opcode 35 is received with the bay doors open, the spacecraft control system must immediately execute the command to close the bay doors.
+When the landing gear is deployed and ground contact is detected, the landing gear system must lock the landing gear in place without delay.
